@@ -14,8 +14,6 @@
 
 
 #爬虫类：
-
-    
 txtdownload：是下载https://www.ybdu.com/ 网址中的小说的脚本,面向过程，单线（进）程，需要手动输入目标书籍的目录网址
     
 newtxtdownload：同上，两者不同的是对requests请求返回的数据的处理方式不同，两者差距不大
