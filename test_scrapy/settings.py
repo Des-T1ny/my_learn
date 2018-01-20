@@ -39,7 +39,7 @@ NEWSPIDER_MODULE = 'test_scrapy.spiders'
 #TELNETCONSOLE_ENABLED = False
 
 # Override the default request headers:
-#   'Accept-Language': 'en',
+#COOKIES_ENABLED = False
 
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
